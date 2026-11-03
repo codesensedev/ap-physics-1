@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 260" width="820" height="260" role="img" aria-labelledby="t d">
+<title id="t">Motion diagram for constant acceleration</title>
+<desc id="d">Five dots show an object's position every second while it speeds up from rest. The gaps between dots grow, the velocity arrows get longer by the same amount each step, and the acceleration arrow points the same way as the motion.</desc>
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="378" y="24" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="18" fill="#8a929b" text-anchor="middle" font-weight="bold"><tspan dy="0">Dots show position at equal time steps (every 1 s)</tspan></text>
+<line x1="30" y1="140" x2="738" y2="140" stroke="#e3e7ec" stroke-width="3" stroke-linecap="round"/>
+<circle cx="50" cy="140" r="7" fill="#1b1f24" stroke="none" stroke-width="0"/>
+<text x="50" y="174" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" fill="#8a929b" text-anchor="middle"><tspan dy="0">0 s</tspan></text>
+<text x="50" y="100" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" fill="#1f5fbf" text-anchor="middle" font-weight="bold"><tspan dy="0">v = 0</tspan></text>
+<circle cx="90" cy="140" r="7" fill="#1b1f24" stroke="none" stroke-width="0"/>
+<text x="90" y="174" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" fill="#8a929b" text-anchor="middle"><tspan dy="0">1 s</tspan></text>
+<line x1="90" y1="104" x2="105.4" y2="104" stroke="#1f5fbf" stroke-width="4" stroke-linecap="butt"/>
+<polygon points="115.6,104 103.6,109.04 103.6,98.96" fill="#1f5fbf"/>
+<circle cx="210" cy="140" r="7" fill="#1b1f24" stroke="none" stroke-width="0"/>
+<text x="210" y="174" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" fill="#8a929b" text-anchor="middle"><tspan dy="0">2 s</tspan></text>
+<line x1="210" y1="104" x2="251" y2="104" stroke="#1f5fbf" stroke-width="4" stroke-linecap="butt"/>
+<polygon points="261.2,104 249.2,109.04 249.2,98.96" fill="#1f5fbf"/>
+<circle cx="410" cy="140" r="7" fill="#1b1f24" stroke="none" stroke-width="0"/>
+<text x="410" y="174" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" fill="#8a929b" text-anchor="middle"><tspan dy="0">3 s</tspan></text>
+<line x1="410" y1="104" x2="476.6" y2="104" stroke="#1f5fbf" stroke-width="4" stroke-linecap="butt"/>
+<polygon points="486.8,104 474.8,109.04 474.8,98.96" fill="#1f5fbf"/>
+<circle cx="690" cy="140" r="7" fill="#1b1f24" stroke="none" stroke-width="0"/>
+<text x="690" y="174" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="16" fill="#8a929b" text-anchor="middle"><tspan dy="0">4 s</tspan></text>
+<line x1="690" y1="104" x2="782.2" y2="104" stroke="#1f5fbf" stroke-width="4" stroke-linecap="butt"/>
+<polygon points="792.4,104 780.4,109.04 780.4,98.96" fill="#1f5fbf"/>
+<text x="741.2" y="90" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="22" fill="#1f5fbf" text-anchor="middle" font-style="italic" font-weight="bold"><tspan dy="0">v</tspan></text>
+<line x1="50" y1="218" x2="133.25" y2="218" stroke="#23844a" stroke-width="5" stroke-linecap="butt"/>
+<polygon points="146,218 131,224.3 131,211.7" fill="#23844a"/>
+<text x="162" y="224" font-family="DejaVu Sans, Helvetica, Arial, sans-serif" font-size="18" fill="#23844a" text-anchor="start" font-weight="bold"><tspan dy="0">a: constant, same direction as v  →  speeding up</tspan></text>
+</svg>
